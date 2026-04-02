@@ -1,0 +1,50 @@
+# 🔐 Environment variables
+.env
+.env.*
+
+# 🔑 Certificates & keys (VERY IMPORTANT)
+*.pem
+*.key
+*.crt
+
+# 🐍 Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 📦 Virtual environments
+venv/
+env/
+ENV/
+.github_venv/
+
+# 🧪 Testing / coverage
+.coverage
+coverage.xml
+*.cover
+.pytest_cache/
+
+# 🧾 Logs
+*.log
+
+# 🧰 IDE / Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 🐳 Docker
+*.tar
+docker-compose.override.yml
+
+# 📁 OS files
+.DS_Store
+Thumbs.db
+
+# 📦 Build / dist
+build/
+dist/
+*.egg-info/
+
+# 🔄 Misc
+*.sqlite3

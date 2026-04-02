@@ -1,0 +1,29 @@
+fastapi[standard]
+uvicorn[standard]
+numpy
+pandas
+pymilvus
+openai
+tqdm
+mysql-connector-python
+spacy
+symspellpy
+redis
+python-dotenv
+
+# telemetry
+arize-phoenix-client
+arize-phoenix-otel
+arize-phoenix-evals
+ 
+openinference-instrumentation-openai
+opentelemetry-instrumentation-fastapi
+
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart
+
+argon2-cffi
+
+# Cross-Encoder Model
+sentence-transformers

@@ -1,0 +1,5 @@
+USER_ID,USER_NAME,EMAIL,NAME,AGE,GENDER,PASSWORD_HASH,CREATED_AT,UPDATED_AT
+1,anubrotog,anubroto.g@prodapt.com,Anubroto Ghose,23,M,"$argon2id$v=19$m=65536,t=3,p=4$ZgzBOKf0nlMK4ZzzvlcKgQ$hXKzDJjyyvNiVlHrUHqf1vxfzAMiyTRZ1OBeoEZ07VU",2025-12-15 23:16:55.854894,2025-12-15 23:16:55.854894
+2,dinesh.sj,dinesh.sj@prodapt.com,Dinesh S,28,M,"$argon2id$v=19$m=65536,t=3,p=4$F+K8t/Z+D8FYa+3d+/8/Zw$mpNhR7te8jagHttsJKYLm9HT8DF66JKnNiA5ta2MzcE",2025-12-15 23:54:56.912185,2025-12-15 23:54:56.912185
+3,milanbanura,milan.bl@prodapt.com,Milan Banura,30,M,"$argon2id$v=19$m=65536,t=3,p=4$gfA+J2Ss9f5/D+Eco7T2vg$lPl4x9Qrvw3pVCCowpu+pLJdsQGLpVLFmLEI8tYfE4A",2025-12-16 09:51:26.732923,2025-12-16 09:51:26.732923
+4,anshu,anshuman.r@prodapt.com,anshuman Pal,28,,"$argon2id$v=19$m=65536,t=3,p=4$p9Sa0zqntDZGKCWkVArhfA$pU2fLhhioomhUonPhG1RoPhEsCek8gRgIPUH8CIXZvk",2025-12-17 23:13:29.807872,2025-12-17 23:13:29.807872

@@ -1,0 +1,207 @@
+QUERY_ID,USER_ID,INPUT_QUERY,CREATED_AT
+1,1,Umbrella,2025-12-16 00:07:50.641787
+2,2,Hi,2025-12-16 00:14:53.838588
+3,2,vests,2025-12-16 00:15:39.437664
+4,2,vests for men,2025-12-16 00:15:49.352891
+5,1,Umbrella,2025-12-16 00:16:07.574230
+6,2,briefs,2025-12-16 00:16:34.627835
+7,2,vests,2025-12-16 00:17:04.900265
+8,2,Sports shoes that should 2 years of warranty,2025-12-16 00:21:16.319362
+9,2,Sports shoes that should 2 years of warranty,2025-12-16 00:23:05.663290
+10,2,Red summer dress for women,2025-12-16 00:23:15.655010
+11,2,laptop,2025-12-16 01:41:00.048042
+12,1,Give me crocs,2025-12-16 01:56:34.617805
+13,1,Give me crocs,2025-12-16 01:58:34.922916
+14,1,Give me crocs,2025-12-16 02:18:25.363294
+15,1,Give me some sunshine,2025-12-16 02:22:16.203564
+16,1,Give me some sunshine Give me rays,2025-12-16 02:22:26.280050
+17,1,I want under 500,2025-12-16 02:22:41.365838
+18,1,Give me shirt,2025-12-16 02:40:19.755629
+19,1,Give me shirt,2025-12-16 02:45:24.722216
+20,1,hi,2025-12-16 02:48:15.494039
+21,1,hi,2025-12-16 02:48:25.412993
+22,1,hi,2025-12-16 02:49:58.702354
+23,1,linux,2025-12-16 02:51:18.133910
+24,1,Aqua,2025-12-16 02:51:30.821650
+25,1,Aqua for kids,2025-12-16 02:51:41.432193
+26,1,hi,2025-12-16 02:54:53.003894
+27,1,hi,2025-12-16 02:58:02.774154
+28,1,keychain,2025-12-16 02:59:45.584171
+29,1,Soap,2025-12-16 03:34:30.435095
+30,1,Soap,2025-12-16 03:34:53.236887
+31,1,Soap,2025-12-16 03:34:59.279521
+32,1,Soap,2025-12-16 03:35:03.777408
+33,1,Soap,2025-12-16 03:35:11.555982
+34,1,Sabun,2025-12-16 03:35:24.933662
+35,1,Bali,2025-12-16 03:35:41.317929
+36,1,Spider Man,2025-12-16 03:36:01.967824
+37,1,Spider Man for women,2025-12-16 03:36:08.891550
+38,1,Spider Man for women,2025-12-16 03:36:37.608658
+39,1,Spider Man for women,2025-12-16 03:36:49.578061
+40,1,Spider Man for men,2025-12-16 03:36:57.308028
+41,1,Spider Man for boys,2025-12-16 03:37:15.688317
+42,1,Spider Man for girls,2025-12-16 03:37:23.376539
+43,1,Spider Man for kids,2025-12-16 03:37:29.475684
+44,1,Spider Man for kids boys,2025-12-16 03:38:05.533305
+45,1,Spider Man for kids girls,2025-12-16 03:38:11.726421
+46,1,Spider Man for girls,2025-12-16 03:38:21.924438
+47,1,Spider Man for girls,2025-12-16 03:38:30.419936
+48,1,Spider Man for girls,2025-12-16 03:38:37.730327
+49,1,Spider Man for girls,2025-12-16 03:38:43.675251
+50,1,Spider Man for girls,2025-12-16 03:38:50.417596
+51,1,Matilda,2025-12-16 03:39:03.975061
+52,1,Samantha,2025-12-16 03:39:46.326493
+53,1,Samantha,2025-12-16 03:40:19.572886
+54,1,Samantha,2025-12-16 03:40:22.964055
+55,1,I need an outfit to go to the beach this summer,2025-12-16 03:53:01.762786
+56,1,I need an outfit to go to the beach this summer,2025-12-16 03:53:56.962812
+57,1,I need an outfit to go to the beach this summer,2025-12-16 03:59:06.551489
+58,1,I need an outfit to go to the beach this summer men,2025-12-16 03:59:16.981429
+59,1,I need an outfit to go to the beach this summer men,2025-12-16 03:59:43.863744
+60,1,Nike,2025-12-16 04:00:00.481021
+61,1,launda baazi,2025-12-16 04:00:15.976903
+62,1,kurta for male,2025-12-16 04:01:10.145439
+63,1,kurta for men,2025-12-16 04:01:17.814279
+64,1,kurta for men,2025-12-16 04:01:24.845290
+65,1,Salwar,2025-12-16 04:01:35.734415
+66,1,Ranveer,2025-12-16 04:01:54.471162
+67,1,Ranveer Singh,2025-12-16 04:02:02.224453
+68,1,Shahrukh Khan,2025-12-16 04:02:17.589961
+69,1,Lionel Messi,2025-12-16 04:02:24.776817
+70,1,Hazard,2025-12-16 04:02:37.299212
+71,1,Hazard Chelsea,2025-12-16 04:02:48.581004
+72,1,Hazard Chelsea,2025-12-16 04:02:57.359327
+73,1,Redis,2025-12-16 04:03:14.472036
+74,1,Wine,2025-12-16 04:03:21.713658
+75,1,Running Shoes,2025-12-16 08:09:06.697384
+76,1,running shoes,2025-12-16 08:11:18.539649
+77,2,Hi,2025-12-16 10:03:06.387186
+78,2,tshirt,2025-12-16 10:03:14.079884
+79,3,black shirt for men,2025-12-16 10:05:32.360838
+80,3,black shirt for women,2025-12-16 10:05:59.704851
+81,3,red wine dress for women,2025-12-16 10:06:23.667074
+82,2,tshirt,2025-12-16 10:25:21.903803
+83,3,man shirt but i hate black,2025-12-16 10:50:03.967266
+84,1,Slippers,2025-12-16 10:50:03.973404
+85,1,Only Shoes not Slippers,2025-12-16 10:50:17.588807
+86,3,man shirt but DO NOT SHOW black,2025-12-16 10:50:22.327462
+87,1,Give me shoes and do not want slippers,2025-12-16 10:50:47.119473
+88,3,man shirt but do not show black,2025-12-16 10:50:49.041135
+89,3,man shirt but do not show black,2025-12-16 10:50:51.941984
+90,1,Women Beachware,2025-12-16 10:51:25.084815
+91,1,what is best fit for st patrick's day?,2025-12-16 10:51:43.378107
+92,1,Laptop,2025-12-16 10:52:02.123757
+93,1,Party Dress for 31st Oct,2025-12-16 10:52:38.552255
+94,1,I want to go to a mosque,2025-12-16 10:53:03.946563
+95,1,Arabian Night,2025-12-16 10:59:59.322469
+96,1,Arabic,2025-12-16 11:00:11.346765
+97,1,Arabic Headdress,2025-12-16 11:00:35.319711
+98,3,gv me Tendulkar's farewell match t-shirt?,2025-12-16 11:21:33.152000
+99,3,I do not want party wear,2025-12-16 11:22:16.280457
+100,1,I want something to wear for my friend's funeral,2025-12-16 11:42:00.475479
+101,1,Friend's Funeral,2025-12-16 11:43:23.603951
+102,1,Filter,2025-12-16 11:46:22.916322
+103,1,Filter,2025-12-16 11:46:28.397637
+104,1,Filter,2025-12-16 11:46:34.446485
+105,1,beachware,2025-12-16 11:46:41.826398
+106,1,Fedora Hat,2025-12-16 11:46:52.931269
+107,1,Women,2025-12-16 11:48:36.345266
+108,1,Men,2025-12-16 11:48:43.593208
+109,1,under 200,2025-12-16 11:49:07.706515
+110,1,Why is ls,2025-12-16 12:03:59.354431
+111,3,gv me dress that Souvik was wearing yesterday?,2025-12-16 12:11:56.235947
+112,1,give me dress that Souvik was wearing yesterday?,2025-12-16 12:12:00.216285
+113,3,gv me dress that Souvik was wearing yesterday?,2025-12-16 12:12:31.356856
+114,3,gv me dress that Souvik was wearing yesterday?,2025-12-16 12:12:41.554119
+115,3,gv me dress that Souvik was wearing yesterday?,2025-12-16 12:12:59.481292
+116,3,gv me dress that Souvik was wearing yesterday?,2025-12-16 12:13:05.382238
+117,1,give me dress that Souvik was wearing yesterday?,2025-12-16 12:14:05.715728
+118,1,give me dress that Souvik was wearing yesterday?,2025-12-16 12:14:10.059037
+119,1,give me dress that Souvik was wearing yesterday?,2025-12-16 12:14:13.808746
+120,1,Business Trip,2025-12-16 12:25:49.981553
+121,1,Business Meeting,2025-12-16 12:25:59.032992
+122,1,Business Trip,2025-12-16 12:26:05.843163
+123,1,Business Trip,2025-12-16 12:29:59.786997
+124,1,Business Trip,2025-12-16 12:30:00.764890
+125,1,Business Trip,2025-12-16 12:30:00.965699
+126,1,Business Trip,2025-12-16 12:30:01.167901
+127,1,Business Trip,2025-12-16 12:30:01.383731
+128,1,Business Trip,2025-12-16 12:30:01.823565
+129,1,I want under 10,2025-12-16 12:30:30.656539
+130,1,I want under 10,2025-12-16 12:31:05.617214
+131,1,Shareef-Ladka,2025-12-16 12:33:44.317336
+132,1,Ladka,2025-12-16 12:33:54.811737
+133,1,Mein Aadmi hun,2025-12-16 12:34:10.939658
+134,1,Dir,2025-12-16 12:41:40.696867
+135,1,I need to run for work,2025-12-16 12:44:57.487995
+136,1,gv me a red-wine color t-shirt,2025-12-16 12:45:26.025556
+137,1,gv me a red-wine color t-shirt,2025-12-16 12:45:59.948418
+138,1,gv me a red-wine color t-shirt,2025-12-16 12:46:08.496001
+139,1,I'm going with a transylvania theme for tomorrow.,2025-12-17 19:51:03.397363
+140,1,I'm going with a transylvania theme for tomorrow.,2025-12-17 19:51:45.806152
+141,1,I'm going with a transylvania theme for tomorrow.,2025-12-17 19:52:29.255388
+142,1,gv me a red-wine color t-shirt,2025-12-17 19:53:56.811610
+143,1,I want something to wear for my friend's funeral,2025-12-17 19:54:29.369337
+144,1,I'm going with a transylvania theme for tomorrow.,2025-12-17 19:56:24.151570
+145,1,gv me a red-wine color t-shirt,2025-12-17 20:01:43.305416
+146,1,gv me dress that Souvik was wearing yesterday?,2025-12-17 20:02:14.678754
+147,1,gv me dress that Souvik was wearing yesterday?,2025-12-17 20:07:14.439422
+148,1,gv me dress that Souvik was wearing yesterday?,2025-12-17 20:07:30.538077
+149,1,gv me dress that Souvik was wearing yesterday?,2025-12-17 20:07:40.254347
+150,1,gv me dress that Souvik was wearing yesterday?,2025-12-17 20:07:48.600555
+151,1,gv me dress that Souvik was wearing yesterday?,2025-12-17 20:07:56.387129
+152,1,gv me dress that Souvik was wearing yesterday?,2025-12-17 20:08:02.386660
+153,1,gv me dress that Souvik was wearing yesterday?,2025-12-17 20:08:11.385052
+154,1,I want something to wear for my friend's funeral ?,2025-12-17 20:09:09.989754
+155,1,I want something to wear for my friend's funeral,2025-12-17 20:09:14.609968
+156,1,gv me Tendulkar's farewell match t-shirt?,2025-12-17 20:10:37.266886
+157,1,gv me Sachin Tendulkar's farewell match t-shirt?,2025-12-17 20:10:54.614956
+158,1,gv me Tendulkar's farewell match t-shirt?,2025-12-17 20:11:05.387206
+159,1,gv me Sachin Tendulkar's farewell match t-shirt?,2025-12-17 20:11:23.119147
+160,1,gv me Sachin's farewell match t-shirt?,2025-12-17 20:11:34.508829
+161,1,what is best fit for st patrick's day?,2025-12-17 20:12:08.169144
+162,1,what is best fit for st patrick's day?,2025-12-17 20:13:00.684019
+163,1,what is best fit for st patrick's day?,2025-12-17 20:13:05.405553
+164,1,what is best fit for st patrick's day?,2025-12-17 20:13:10.853309
+165,1,what is best fit for st patrick's day?,2025-12-17 20:13:14.831250
+166,4,what is best fit for st patrick's day?,2025-12-17 23:15:27.804508
+167,4,give me Tendulkar's farewell match t-shirt?,2025-12-17 23:16:29.132941
+168,4,what is best fit for st patrick's day?,2025-12-17 23:16:53.127514
+169,4,I want something to wear for my friend's funeral,2025-12-17 23:17:16.317558
+170,4,I want to go to a mosque,2025-12-17 23:17:45.889416
+171,4,I want to go to a mosque,2025-12-17 23:18:43.529786
+172,4,give me dress which I can wear to mosque,2025-12-17 23:18:59.209495
+173,4,give me dress which I can wear to temple,2025-12-17 23:19:49.910653
+174,4,I want to get a slide for me,2025-12-17 23:20:34.524015
+175,4,I want to get a slide for men,2025-12-17 23:20:59.512592
+176,4,I want to gift my girlfriend for Honeymoon,2025-12-17 23:21:43.998337
+177,4,Gift for my Boyfriend,2025-12-17 23:21:59.603355
+178,4,I need a dress for my friend mairrage,2025-12-17 23:22:42.780313
+179,4,I need a men dress for my friend mairrage,2025-12-17 23:23:13.186941
+180,4,I need bikini,2025-12-17 23:24:28.499743
+181,4,I need panty,2025-12-17 23:24:46.050984
+182,4,I need Bra,2025-12-17 23:25:17.650260
+183,4,I need men trunks,2025-12-17 23:25:59.671469
+184,4,gv me dress that Souvik was wearing yesterday?,2025-12-17 23:26:23.933947
+185,4,gv me dress that Neetu was wearing yesterday?,2025-12-17 23:26:45.347904
+186,4,gv me a red-wine color t-shirt,2025-12-17 23:27:12.506478
+187,4,I'm going with a transylvania theme for tomorrow.,2025-12-17 23:27:48.762407
+188,4,I want a dress which is not a sea blue,2025-12-17 23:28:11.076422
+189,4,I want a dress which is not a  blue,2025-12-17 23:28:19.768608
+190,4,I want a dress which is not a blue,2025-12-17 23:28:33.656473
+191,4,Red summer dress for women,2025-12-17 23:30:24.611743
+192,4,women’s outfit for beach vacation,2025-12-17 23:30:47.733084
+193,4,womans witer jakt,2025-12-17 23:31:09.808789
+194,4,black formal shoes under 2000 rupees for men,2025-12-17 23:32:17.112594
+195,4,black formal shoes under 200 rupees for men,2025-12-17 23:33:18.441735
+196,4,backpack for college use,2025-12-17 23:33:52.237706
+197,4,backpack for college use with rating above 3.5,2025-12-17 23:34:27.800915
+198,4,backpack for college use with rating above 3.5,2025-12-17 23:35:08.776847
+199,4,something to wear for party,2025-12-17 23:35:26.087259
+200,4,shoes for women,2025-12-17 23:37:34.107142
+201,4,mobile phone charger,2025-12-17 23:38:30.568341
+202,4,jeans under 80,2025-12-17 23:38:56.131014
+203,4,jeans under 80 above 5,2025-12-17 23:39:19.725399
+204,4,jeans priced under 80 above 10 doller,2025-12-17 23:39:44.099631
+205,4,running outfit,2025-12-17 23:40:07.286665
+206,4,"""product with: No brand Title only No description""",2025-12-17 23:40:27.838580
